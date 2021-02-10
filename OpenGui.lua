@@ -2027,7 +2027,7 @@ local _Flight = (function()
 				dir.d = true
 			elseif code == codes.Q then
 				dir.q = true
-			elseif code == codes.E then
+			elseif code == codes.F then
 				dir.e = true
 			elseif code == codes.Space then
 				dir.q = true
